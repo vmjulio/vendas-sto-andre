@@ -1,21 +1,19 @@
 ---
 caption:
   title: +++nome_item+++
-  subtitle: +++subtitle+++
-  price_original: +++valor_original+++
+  dimensions: +++dimensions+++
   price_new: +++valor_pedido+++
   thumbnail: +++link_imagem+++
   availability: +++availability_yes_or_no+++
   
 #what displays when the item is clicked:
 title: +++nome_item+++
-subtitle: +++subtitle+++
+dimensions: +++dimensions+++
 image: +++link_real_imagem+++
 alt: +++nome_item+++
 
 ---
 {:.list-inline} 
-- **Price**: <span style="color:red"><del>+++valor_original+++ €</del></span> <span style="color:green">**+++valor_pedido+++**</span> €!
-- **Condition**: +++condition+++
-- **Original item link**: [Here](+++link_compra+++)
+- **Preço**: R$ <span style="color:green">**+++valor_pedido+++**</span>
+- **Condição**: +++condition+++
 - **Availability**: +++availability+++
