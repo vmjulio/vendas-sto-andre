@@ -33,7 +33,7 @@ def replace_in_file(file_path, item_dict):
         file_contents = file.read()
     file_contents = file_contents.replace("+++nome_item+++", str(item_dict["nome_item"]))
     file_contents = file_contents.replace("+++dimensions+++", str(item_dict["dimensions"]))
-    file_contents = file_contents.replace("+++link_thumbnail+++", str(item_dict["link_real_imagem"]))
+    file_contents = file_contents.replace("+++link_thumbnail+++", str(item_dict["link_thumbnail"]))
     file_contents = file_contents.replace("+++link_imagem+++", str(item_dict["link_real_imagem"]))
     file_contents = file_contents.replace("+++valor_pedido+++", str(item_dict["valor_pedido"]))
     file_contents = file_contents.replace("+++condition+++", str(item_dict["condition"]))
@@ -43,7 +43,7 @@ def replace_in_file(file_path, item_dict):
 
     text_availability = "<span style='color:red'>Ops, esse já está vendido! ❌</span>"
     if availability == "Yes":
-        text_availability = "<span style='color:green'>Sim, esta disponível! ✅</span>"
+        text_availability = "<span style='color:green'>Sim, está disponível! ✅</span>"
     file_contents = file_contents.replace("+++availability+++", text_availability)
 
     file_contents = file_contents.replace("+++link_real_imagem+++", str(item_dict["link_real_imagem"]))
