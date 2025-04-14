@@ -16,4 +16,4 @@ alt: Fogão
 {:.list-inline} 
 - **Preço**: R$ <span style="color:green">**600**</span>
 - **Condição**: Muito boa
-- **Availability**: <span style='color:green'>Yes, it's still available! ✅</span>
+- **Availability**: <span style='color:green'>Sim, esta disponível! ✅</span>

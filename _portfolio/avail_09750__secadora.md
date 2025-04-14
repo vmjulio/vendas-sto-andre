@@ -16,4 +16,4 @@ alt: Secadora
 {:.list-inline} 
 - **Preço**: R$ <span style="color:green">**250**</span>
 - **Condição**: Boa
-- **Availability**: <span style='color:green'>Yes, it's still available! ✅</span>
+- **Availability**: <span style='color:green'>Sim, esta disponível! ✅</span>
