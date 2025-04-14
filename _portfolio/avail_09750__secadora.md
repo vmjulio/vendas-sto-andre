@@ -9,7 +9,7 @@ caption:
 #what displays when the item is clicked:
 title: Secadora
 dimensions: 0,60 de largura x 0,53 comprimento
-image: nan
+image: https://raw.githubusercontent.com/vmjulio/vendas-sto-andre/refs/heads/main/assets/img/portfolio/secadora.jpeg
 alt: Secadora
 
 ---

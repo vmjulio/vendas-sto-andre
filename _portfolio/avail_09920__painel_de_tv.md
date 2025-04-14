@@ -9,7 +9,7 @@ caption:
 #what displays when the item is clicked:
 title: Painel de TV
 dimensions: 1,20 x 0,90
-image: nan
+image: https://raw.githubusercontent.com/vmjulio/vendas-sto-andre/refs/heads/main/assets/img/portfolio/aparador_tv.jpeg
 alt: Painel de TV
 
 ---

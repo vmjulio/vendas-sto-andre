@@ -9,7 +9,7 @@ caption:
 #what displays when the item is clicked:
 title: Sofá cama
 dimensions: 1,06 largura x 0,82 comprimento
-image: nan
+image: https://raw.githubusercontent.com/vmjulio/vendas-sto-andre/refs/heads/main/assets/img/portfolio/sofa_cama.jpeg
 alt: Sofá cama
 
 ---

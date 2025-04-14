@@ -9,7 +9,7 @@ caption:
 #what displays when the item is clicked:
 title: Fogão
 dimensions: 0,56 largura x 0,62 comprimento
-image: nan
+image: https://raw.githubusercontent.com/vmjulio/vendas-sto-andre/refs/heads/main/assets/img/portfolio/fogao.jpeg
 alt: Fogão
 
 ---

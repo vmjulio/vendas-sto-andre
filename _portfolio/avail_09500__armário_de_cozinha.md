@@ -9,7 +9,7 @@ caption:
 #what displays when the item is clicked:
 title: Armário de cozinha
 dimensions: Sem dimensoes medidas
-image: nan
+image: https://raw.githubusercontent.com/vmjulio/vendas-sto-andre/refs/heads/main/assets/img/portfolio/armario_cozinha.jpeg
 alt: Armário de cozinha
 
 ---

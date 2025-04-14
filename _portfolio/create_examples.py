@@ -46,7 +46,7 @@ def replace_in_file(file_path, item_dict):
         text_availability = "<span style='color:green'>Sim, está disponível! ✅</span>"
     file_contents = file_contents.replace("+++availability+++", text_availability)
 
-    file_contents = file_contents.replace("+++link_real_imagem+++", str(item_dict["link_real_imagem"]))
+    file_contents = file_contents.replace("+++link_imagem+++", str(item_dict["link_imagem"]))
 
     with open(file_path, 'w') as file:
         file.write(file_contents)

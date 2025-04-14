@@ -9,7 +9,7 @@ caption:
 #what displays when the item is clicked:
 title: +++nome_item+++
 dimensions: +++dimensions+++
-image: +++link_real_imagem+++
+image: +++link_imagem+++
 alt: +++nome_item+++
 
 ---
