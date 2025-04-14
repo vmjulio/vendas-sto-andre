@@ -16,18 +16,15 @@ theme: jekyll-agency
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : OUR GARAGE SALE!
-email      : vijulio@gmail.com #this is also the email contact forms will go to
-description: "This is a page for us to sell our furniture and other objects before we go back to our country"
+title      : VENDA DE MOVEIS!
+email      : ni.julio@uol.com.br #this is also the email contact forms will go to
+description: "Estamos vendendo nossas coisas!"
 author     : vmjulio
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
 
-locale: "en-US" # See available languages in _data/sitetext.yml
-
-analytics:
-  google: G-K6JKG9NDVE
+locale: "pt-BR" # See available languages in _data/sitetext.yml
 
 collections:
   portfolio:
