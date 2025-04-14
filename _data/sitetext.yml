@@ -9,7 +9,7 @@
 
 # English (default)
 # -----------------
-en: &DEFAULT_EN
+pt: &DEFAULT_PT
   header:
     title: OUR GARAGE SALE!
     text: We're selling our stuff
@@ -66,11 +66,7 @@ en: &DEFAULT_EN
   footer:
     social:
 
-en-US:
-  <<: *DEFAULT_EN
-en-CA:
-  <<: *DEFAULT_EN
-en-GB:
-  <<: *DEFAULT_EN
-en-AU:
-  <<: *DEFAULT_EN
+pt-BR:
+  <<: *DEFAULT_PT
+en:
+  <<: *DEFAULT_PT

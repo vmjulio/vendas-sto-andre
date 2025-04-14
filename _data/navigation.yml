@@ -19,3 +19,5 @@ pt: &DEFAULT_PT
       section: team
 pt-BR:
   <<: *DEFAULT_PT
+en:
+  <<: *DEFAULT_PT
