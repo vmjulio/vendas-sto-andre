@@ -3,7 +3,7 @@ caption:
   title: +++nome_item+++
   dimensions: +++dimensions+++
   price_new: +++valor_pedido+++
-  thumbnail: +++link_imagem+++
+  thumbnail: +++link_thumbnail+++
   availability: +++availability_yes_or_no+++
   
 #what displays when the item is clicked:
