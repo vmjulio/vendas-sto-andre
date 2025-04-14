@@ -16,4 +16,4 @@ alt: Armário de cozinha
 {:.list-inline} 
 - **Preço**: R$ <span style="color:green">**500**</span>
 - **Condição**: Muito boa
-- **Availability**: <span style='color:green'>Sim, está disponível! ✅</span>
+- **Disponibilidade**: <span style='color:green'>Sim, está disponível! ✅</span>

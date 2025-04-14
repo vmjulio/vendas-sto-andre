@@ -16,4 +16,4 @@ alt: Painel de TV
 {:.list-inline} 
 - **Preço**: R$ <span style="color:green">**80**</span>
 - **Condição**: Excelente
-- **Availability**: <span style='color:green'>Sim, está disponível! ✅</span>
+- **Disponibilidade**: <span style='color:green'>Sim, está disponível! ✅</span>
