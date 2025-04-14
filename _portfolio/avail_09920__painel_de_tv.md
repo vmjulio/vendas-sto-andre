@@ -3,7 +3,7 @@ caption:
   title: Painel de TV
   dimensions: 1,20 x 0,90
   price_new: 80
-  thumbnail: aparador_tv.jpeg
+  thumbnail: https://raw.githubusercontent.com/vmjulio/vendas-sto-andre/refs/heads/main/assets/img/portfolio/aparador_tv.jpeg
   availability: Yes
   
 #what displays when the item is clicked:

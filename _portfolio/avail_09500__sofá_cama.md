@@ -3,7 +3,7 @@ caption:
   title: Sofá cama
   dimensions: 1,06 largura x 0,82 comprimento
   price_new: 500
-  thumbnail: sofa_cama.jpeg
+  thumbnail: https://raw.githubusercontent.com/vmjulio/vendas-sto-andre/refs/heads/main/assets/img/portfolio/sofa_cama.jpeg
   availability: Yes
   
 #what displays when the item is clicked:

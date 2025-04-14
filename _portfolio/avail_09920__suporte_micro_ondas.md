@@ -3,7 +3,7 @@ caption:
   title: Suporte micro-ondas
   dimensions: 0,70 altura x 0,65 largura
   price_new: 80
-  thumbnail: microondas.jpeg
+  thumbnail: https://raw.githubusercontent.com/vmjulio/vendas-sto-andre/refs/heads/main/assets/img/portfolio/microondas.jpeg
   availability: Yes
   
 #what displays when the item is clicked:

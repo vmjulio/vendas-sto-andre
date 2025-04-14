@@ -3,7 +3,7 @@ caption:
   title: Armário de cozinha
   dimensions: Sem dimensoes medidas
   price_new: 500
-  thumbnail: armario_cozinha.jpeg
+  thumbnail: https://raw.githubusercontent.com/vmjulio/vendas-sto-andre/refs/heads/main/assets/img/portfolio/armario_cozinha.jpeg
   availability: Yes
   
 #what displays when the item is clicked:

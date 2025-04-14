@@ -3,7 +3,7 @@ caption:
   title: Secadora
   dimensions: 0,60 de largura x 0,53 comprimento
   price_new: 250
-  thumbnail: secadora.jpeg
+  thumbnail: https://raw.githubusercontent.com/vmjulio/vendas-sto-andre/refs/heads/main/assets/img/portfolio/secadora.jpeg
   availability: Yes
   
 #what displays when the item is clicked:

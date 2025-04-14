@@ -3,7 +3,7 @@ caption:
   title: Fogão
   dimensions: 0,56 largura x 0,62 comprimento
   price_new: 600
-  thumbnail: fogao.jpeg
+  thumbnail: https://raw.githubusercontent.com/vmjulio/vendas-sto-andre/refs/heads/main/assets/img/portfolio/fogao.jpeg
   availability: Yes
   
 #what displays when the item is clicked:
