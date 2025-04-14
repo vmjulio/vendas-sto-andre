@@ -16,4 +16,4 @@ alt: +++nome_item+++
 {:.list-inline} 
 - **Preço**: R$ <span style="color:green">**+++valor_pedido+++**</span>
 - **Condição**: +++condition+++
-- **Availability**: +++availability+++
+- **Disponibilidade**: +++availability+++

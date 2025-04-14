@@ -34,7 +34,7 @@ def replace_in_file(file_path, item_dict):
     file_contents = file_contents.replace("+++nome_item+++", str(item_dict["nome_item"]))
     file_contents = file_contents.replace("+++dimensions+++", str(item_dict["dimensions"]))
     file_contents = file_contents.replace("+++link_thumbnail+++", "https://raw.githubusercontent.com/vmjulio/vendas-sto-andre/refs/heads/main/assets/img/portfolio/" + str(item_dict["link_thumbnail"]))
-    file_contents = file_contents.replace("+++link_imagem+++", str(item_dict["link_real_imagem"]))
+    file_contents = file_contents.replace("+++link_imagem+++", "https://raw.githubusercontent.com/vmjulio/vendas-sto-andre/refs/heads/main/assets/img/portfolio/" + str(item_dict["link_thumbnail"]))
     file_contents = file_contents.replace("+++valor_pedido+++", str(item_dict["valor_pedido"]))
     file_contents = file_contents.replace("+++condition+++", str(item_dict["condition"]))
 
