@@ -11,54 +11,46 @@
 # -----------------
 pt: &DEFAULT_PT
   header:
-    title: OUR GARAGE SALE!
-    text: We're selling our stuff
-    button: Show me the items
+    title: MINHA VENDA DE MÓVEIS!
+    text: Estou vendendo minhas coisas
+    button: Mostre-me os itens
     buttonlink: "#portfolio"
 
   portfolio:
     title: "Items"
-    text: "All the items (furniture, kitchen appliances, electronics) we're selling.<br><br>Please note that we'll need you to pick the items up in our apartment (8 minute walk from Berlin Hauptbanhof)"
+    text: "Todos os itens que estoun vendendo (móveis, itens de cozinha, eletrônicos).<br><br>Os produtos devem ser retirados no meu apartamento (Vila Apiaí, Santo André)"
     section: portfolio
-    closebutton: "Go back"
-    contactus: "Buy it!"
+    closebutton: "Voltar"
+    contactus: "Quero comprar!"
 
   about:
-    title: "We're selling our stuff!"
-    text: "what's the story?"
-    body: "After two and a half amazing years in Berlin we have decided to go back to our beloved country 🇧🇷. We're selling our furniture and appliances at discounted prices so we can sell everything quickly.<br><br>If you're here, it's because either you or someone you know is close to us, and you can help us moving to Brazil faster while buying cheap stuff! 😀"
+    title: "Estou vendendo minhas coisas!"
+    text: "o que aconteceu?"
+    body: "Depois de alguns anos morando no meu atual apartamento, estou me mudando para um outro lar!<br><br>Como não precisarei mais de alguns móveis e itens em geral, estou vendendo eles a preços mais baixos do que eu paguei, levando em consideração o tempo de uso e estado deles."
     section: about
 
   team:
-    title: "Who are we?"
-    text: "🧔👩🐕"
+    title: "Quem somos?"
+    text: "👩🧔🐕"
     section: team
     people:
+      - name: "Nilza"
+        role: "Mae 🇧🇷👩"
+        image: assets/img/team/ester.jpeg
+        social:
+          - url: "mailto:ni.julio@uol.com.br"
+            icon: fab fa-google
       - name: "Vitor"
-        role: "Human being 🇧🇷🧔"
+        role: "Filho 🇧🇷🧔"
         image: assets/img/team/vitor.jpeg
         social:
           - url: https://www.linkedin.com/in/vitor-julio/
             icon: fab fa-linkedin-in
-          - url: "mailto:vijulio@gmail.com"
-            icon: fab fa-google
-          - url: https://wa.me/491742193016
-            icon: fab fa-whatsapp
-      - name: "Ester"
-        role: "Human being 🇧🇷👩"
-        image: assets/img/team/ester.jpeg
-        social:
-          - url: https://www.linkedin.com/in/ester-baungratz/
-            icon: fab fa-linkedin-in
-          - url: "mailto:ebaungratz@gmail.com"
-            icon: fab fa-google
-          - url: https://wa.me/491742193016
-            icon: fab fa-whatsapp
       - name: "Eva"
-        role: "Dog 🐕"
+        role: "Desenvolvedora do site 🐕"
         image: assets/img/team/eva3.png
         social:
-          - url: https://vmjulio.github.io
+          - url: https://vmjulio.github.io/vendas-sto-andre
             icon: fas fa-dog
 
   contact:
