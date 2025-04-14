@@ -41,9 +41,9 @@ def replace_in_file(file_path, item_dict):
     availability = str(item_dict["availability"])
     file_contents = file_contents.replace("+++availability_yes_or_no+++", availability)
 
-    text_availability = "<span style='color:red'>Oops, this one is taken! ❌</span>"
+    text_availability = "<span style='color:red'>Ops, esse já está vendido! ❌</span>"
     if availability == "Yes":
-        text_availability = "<span style='color:green'>Yes, it's still available! ✅</span>"
+        text_availability = "<span style='color:green'>Sim, esta disponível! ✅</span>"
     file_contents = file_contents.replace("+++availability+++", text_availability)
 
     file_contents = file_contents.replace("+++link_real_imagem+++", str(item_dict["link_real_imagem"]))
