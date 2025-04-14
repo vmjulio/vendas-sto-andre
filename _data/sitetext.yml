@@ -1,0 +1,76 @@
+#
+# Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
+#
+# Configuration: Add to _config.yml
+# locale: "en-US"  [YOUR PREFERRED LOCALE]
+#
+# How to use:
+# {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
+
+# English (default)
+# -----------------
+en: &DEFAULT_EN
+  header:
+    title: OUR GARAGE SALE!
+    text: We're selling our stuff
+    button: Show me the items
+    buttonlink: "#portfolio"
+
+  portfolio:
+    title: "Items"
+    text: "All the items (furniture, kitchen appliances, electronics) we're selling.<br><br>Please note that we'll need you to pick the items up in our apartment (8 minute walk from Berlin Hauptbanhof)"
+    section: portfolio
+    closebutton: "Go back"
+    contactus: "Buy it!"
+
+  about:
+    title: "We're selling our stuff!"
+    text: "what's the story?"
+    body: "After two and a half amazing years in Berlin we have decided to go back to our beloved country 🇧🇷. We're selling our furniture and appliances at discounted prices so we can sell everything quickly.<br><br>If you're here, it's because either you or someone you know is close to us, and you can help us moving to Brazil faster while buying cheap stuff! 😀"
+    section: about
+
+  team:
+    title: "Who are we?"
+    text: "🧔👩🐕"
+    section: team
+    people:
+      - name: "Vitor"
+        role: "Human being 🇧🇷🧔"
+        image: assets/img/team/vitor.jpeg
+        social:
+          - url: https://www.linkedin.com/in/vitor-julio/
+            icon: fab fa-linkedin-in
+          - url: "mailto:vijulio@gmail.com"
+            icon: fab fa-google
+          - url: https://wa.me/491742193016
+            icon: fab fa-whatsapp
+      - name: "Ester"
+        role: "Human being 🇧🇷👩"
+        image: assets/img/team/ester.jpeg
+        social:
+          - url: https://www.linkedin.com/in/ester-baungratz/
+            icon: fab fa-linkedin-in
+          - url: "mailto:ebaungratz@gmail.com"
+            icon: fab fa-google
+          - url: https://wa.me/491742193016
+            icon: fab fa-whatsapp
+      - name: "Eva"
+        role: "Dog 🐕"
+        image: assets/img/team/eva3.png
+        social:
+          - url: https://vmjulio.github.io
+            icon: fas fa-dog
+
+  contact:
+
+  footer:
+    social:
+
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN
