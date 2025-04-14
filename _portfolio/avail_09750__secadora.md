@@ -3,7 +3,7 @@ caption:
   title: Secadora
   dimensions: 0,60 de largura x 0,53 comprimento
   price_new: 250
-  thumbnail: nan
+  thumbnail: secadora.jpeg
   availability: Yes
   
 #what displays when the item is clicked:
@@ -16,4 +16,4 @@ alt: Secadora
 {:.list-inline} 
 - **Preço**: R$ <span style="color:green">**250**</span>
 - **Condição**: Boa
-- **Availability**: <span style='color:green'>Sim, esta disponível! ✅</span>
+- **Availability**: <span style='color:green'>Sim, está disponível! ✅</span>

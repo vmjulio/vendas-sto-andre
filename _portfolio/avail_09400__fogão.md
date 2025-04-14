@@ -3,7 +3,7 @@ caption:
   title: Fogão
   dimensions: 0,56 largura x 0,62 comprimento
   price_new: 600
-  thumbnail: nan
+  thumbnail: fogao.jpeg
   availability: Yes
   
 #what displays when the item is clicked:
@@ -16,4 +16,4 @@ alt: Fogão
 {:.list-inline} 
 - **Preço**: R$ <span style="color:green">**600**</span>
 - **Condição**: Muito boa
-- **Availability**: <span style='color:green'>Sim, esta disponível! ✅</span>
+- **Availability**: <span style='color:green'>Sim, está disponível! ✅</span>

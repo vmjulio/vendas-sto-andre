@@ -1,16 +1,16 @@
 ---
 caption:
-  title: Sofá cama
-  dimensions: 1,06 largura x 0,82 comprimento
+  title: Armário de cozinha
+  dimensions: Sem dimensoes medidas
   price_new: 500
-  thumbnail: sofa_cama.jpeg
+  thumbnail: armario_cozinha.jpeg
   availability: Yes
   
 #what displays when the item is clicked:
-title: Sofá cama
-dimensions: 1,06 largura x 0,82 comprimento
+title: Armário de cozinha
+dimensions: Sem dimensoes medidas
 image: nan
-alt: Sofá cama
+alt: Armário de cozinha
 
 ---
 {:.list-inline} 
