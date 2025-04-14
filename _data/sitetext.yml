@@ -36,7 +36,7 @@ pt: &DEFAULT_PT
     people:
       - name: "Nilza"
         role: "Mae 🇧🇷👩"
-        image: assets/img/team/ester.jpeg
+        image: assets/img/team/nilza.jpeg
         social:
           - url: "mailto:ni.julio@uol.com.br"
             icon: fab fa-google
