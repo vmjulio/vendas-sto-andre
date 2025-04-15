@@ -18,7 +18,7 @@ pt: &DEFAULT_PT
 
   portfolio:
     title: "Items"
-    text: "Todos os itens que estoun vendendo (móveis, itens de cozinha, eletrônicos).<br><br>Os produtos devem ser retirados no meu apartamento (Vila Apiaí, Santo André)"
+    text: "Todos os itens que estou vendendo (móveis, itens de cozinha, eletrônicos).<br><br>Os produtos devem ser retirados no meu apartamento (Vila Apiaí, Santo André)"
     section: portfolio
     closebutton: "Voltar"
     contactus: "Quero comprar!"
