@@ -1,6 +1,6 @@
 nome_item	dimensions	valor_pedido	condition	link_thumbnail	link_imagem	availability
 Suporte micro-ondas	0,70 altura x 0,65 largura	80	Excelente	microondas.jpeg	https://lh3.googleusercontent.com/pw/AP1GczNcHtpUt4zXfgjGMS3opLuSUilU2fyGcjj2O86W4LEdVde2d0kT8jGfvG1XvPJBgaXciy9OWPLVi7kADJekWK374Eo0wmrpaz9M9yLuELTEm_1nFWtbmebhGVhH5DzBHYT3n9O4d66MbO92tpzQdkFoiw=w1220-h1626-s-no-gm?authuser=0	Yes
-Fogão	0,56 largura x 0,62 comprimento	600	Muito boa	fogao.jpeg		Yes
+Fogão	0,56 largura x 0,62 comprimento	600	Muito boa	fogao.jpeg		No
 Secadora	0,60 de largura x 0,53 comprimento	250	Boa	secadora.jpeg		Yes
 Armário de cozinha	Sem dimensoes medidas	500	Muito boa	armario_cozinha.jpeg		No
 Painel de TV	1,20 x 0,90	80	Excelente	aparador_tv.jpeg		Yes
